@@ -1,0 +1,16 @@
+VSC
+* ESLint (Instalada)
+* JSBooster (Instalada)
+* Prettier (Instalada)
+* Auto Rename Tag (Instalada)
+* HTML CSS Support (Instalada)
+* CSS Peek (Instalada)
+* HTML Preview
+
+GIT - control de versiones
+
+* Repositorio - almacena los archivos y su historial de cambios.
+* Commit - registra los cambios realizados en el repositorio en un momento especifico
+* Branch - crea ramas para trabajar en diferentes lineas de desarrollo
+* Merge - combina los cambios de diferentes ramas en una sola
+
